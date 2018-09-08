@@ -6,7 +6,11 @@ def second_challenge
     :hero_fiends => {}
       }, 
     :capulet => {
-      
+    :montague => {
+    :patriarch => {}
+    :heroine => {}
+    :heroine_fiends => {}
+      }  
       
       }}
 
